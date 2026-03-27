@@ -17,6 +17,10 @@ saved_model/
 *.pt
 *.bin
 
+best_model/
+*.pt
+*.bin
+
 lightning_logs/
 logs/
 
